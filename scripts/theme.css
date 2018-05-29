@@ -1,0 +1,50 @@
+body{
+
+text-align = center;
+background-color: white;
+/*background-image: url(images/rain-bg.jpg);*/
+background-repeat: no-repeat;
+
+}
+
+.bg {
+    height: 50%;
+}
+
+#hello{
+text-align: center;
+}
+
+#my-random{
+    position: fixed;
+    /*top: 35%;
+    left: 35%;*/
+
+}
+
+.weather-form{
+    text-align: center;
+    width = 80%
+
+}
+
+/*
+Weather Types:
+      'clear-day',
+      'clear-night',
+      'cloudy',
+      'fog',
+      'hail',
+      'partly-cloudy-day',
+      'partly-cloudy-night',
+      'rain',
+      'snow',
+      'sleet',
+      'wind'
+
+
+
+
+      'thunderstorm',
+      'tornado'
+*/
